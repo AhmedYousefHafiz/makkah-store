@@ -9,6 +9,46 @@
     "description": "Latest iPhone model with high performance.",
     "isFeatured": true
   },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
   {
     "id": "p-002",
     "name": "Samsung Galaxy S25",

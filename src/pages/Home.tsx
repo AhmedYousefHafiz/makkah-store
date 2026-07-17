@@ -53,7 +53,7 @@ function Home() {
         </section>
       )}
 
-      <BottomNavigation />
+     {/* <BottomNavigation /> */}
     </main>
   );
 }

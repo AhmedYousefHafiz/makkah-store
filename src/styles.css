@@ -1,0 +1,330 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #1f1f1f;
+  background: #f4f5f7;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.app-shell {
+  width: 100%;
+  max-width: 520px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 16px 16px 92px;
+  background: #f4f5f7;
+}
+
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 12px 0 16px;
+  background: #f4f5f7;
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.welcome-text {
+  margin: 0 0 4px;
+  color: #666;
+  font-size: 0.85rem;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 1.6rem;
+  line-height: 1.1;
+}
+
+.profile-button {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  color: #fff;
+  font-weight: 800;
+  background: #e60000;
+  box-shadow: 0 8px 18px rgb(230 0 0 / 22%);
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 14px;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgb(31 31 31 / 8%);
+}
+
+.search-box input {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+}
+
+.section-block {
+  margin-top: 20px;
+}
+
+.section-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.section-title-row h2 {
+  font-size: 1.1rem;
+}
+
+.text-button,
+.count-label {
+  color: #e60000;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.offers-scroll {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 4px;
+  scrollbar-width: none;
+}
+
+.offers-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.offer-card {
+  position: relative;
+  min-width: 82%;
+  min-height: 150px;
+  padding: 20px;
+  border-radius: 24px;
+  color: #fff;
+  overflow: hidden;
+  box-shadow: 0 12px 28px rgb(31 31 31 / 18%);
+  scroll-snap-align: start;
+}
+
+.offer-card::after {
+  content: "";
+  position: absolute;
+  right: -35px;
+  bottom: -45px;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background: rgb(255 255 255 / 18%);
+}
+
+.offer-badge {
+  display: inline-block;
+  padding: 5px 10px;
+  margin-bottom: 16px;
+  border-radius: 999px;
+  color: #1f1f1f;
+  background: #fff;
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+
+.offer-card h3 {
+  max-width: 75%;
+  font-size: 1.55rem;
+  line-height: 1.05;
+}
+
+.offer-subtitle {
+  margin-top: 8px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.offer-description {
+  max-width: 78%;
+  margin-top: 8px;
+  color: rgb(255 255 255 / 88%);
+  font-size: 0.86rem;
+  line-height: 1.35;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.product-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgb(31 31 31 / 8%);
+}
+
+.product-image {
+  display: grid;
+  place-items: center;
+  height: 110px;
+  font-size: 3rem;
+  background: linear-gradient(135deg, #f9fafb, #eceff3);
+}
+
+.product-content {
+  padding: 12px;
+}
+
+.product-content h3 {
+  font-size: 0.96rem;
+  line-height: 1.25;
+}
+
+.product-content p {
+  display: -webkit-box;
+  min-height: 34px;
+  margin-top: 6px;
+  overflow: hidden;
+  color: #6b7280;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 7px;
+  margin-top: 10px;
+}
+
+.current-price {
+  color: #e60000;
+  font-weight: 900;
+}
+
+.old-price {
+  color: #98a1ae;
+  font-size: 0.78rem;
+  text-decoration: line-through;
+}
+
+.discount-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  padding: 4px 7px;
+  border-radius: 999px;
+  color: #fff;
+  background: #111827;
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.empty-state {
+  margin-top: 28px;
+  padding: 28px 18px;
+  border-radius: 22px;
+  text-align: center;
+  background: #fff;
+}
+
+.empty-state p {
+  margin-top: 8px;
+  color: #6b7280;
+}
+
+.bottom-nav {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: min(520px, 100%);
+  margin: 0 auto;
+  padding: 10px 14px 14px;
+  border-radius: 24px 24px 0 0;
+  background: #fff;
+  box-shadow: 0 -8px 24px rgb(31 31 31 / 10%);
+}
+
+.bottom-nav button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  color: #7d8794;
+  font-size: 1.05rem;
+}
+
+.bottom-nav span {
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.bottom-nav .active {
+  color: #e60000;
+}
+
+@media (min-width: 640px) {
+  .app-shell {
+    max-width: 900px;
+  }
+
+  .offer-card {
+    min-width: 360px;
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .bottom-nav {
+    max-width: 900px;
+  }
+}

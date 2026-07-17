@@ -1,0 +1,26 @@
+[
+  {
+    "id": "o-001",
+    "title": "Up to 50% OFF",
+    "subtitle": "Mobile Deals",
+    "description": "Save more on selected smartphones this week.",
+    "backgroundColor": "#e60000",
+    "badge": "Hot"
+  },
+  {
+    "id": "o-002",
+    "title": "Bundle Offer",
+    "subtitle": "Laptop + Accessories",
+    "description": "Get useful accessories with selected laptops.",
+    "backgroundColor": "#262626",
+    "badge": "New"
+  },
+  {
+    "id": "o-003",
+    "title": "Internet Devices",
+    "subtitle": "Special Prices",
+    "description": "Choose routers and portable devices for home or travel.",
+    "backgroundColor": "#00697c",
+    "badge": "Limited"
+  }
+]

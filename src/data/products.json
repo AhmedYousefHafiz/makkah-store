@@ -1,115 +1,292 @@
 [
   {
-    "id": "p-001",
-    "name": "iPhone",
-    "price": 1200,
-    "oldPrice": 1400,
-    "category": "Mobiles",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVQ88UMJu2jlWT4WZLkkW2TfSMiCYBl517FtYGx2ORA&s=10",
-    "description": "Latest iPhone model with high performance.",
-    "isFeatured": true
-  },
-    {
-    "id": "p-001",
-    "name": "iPhone 16",
-    "price": 1200,
-    "oldPrice": 1400,
-    "category": "Mobiles",
-    "image": "./images/sugar.jpeg",
-    "description": "Latest iPhone model with high performance.",
-    "isFeatured": true
-  },
-    {
-    "id": "p-001",
-    "name": "iPhone 16",
-    "price": 1200,
-    "oldPrice": 1400,
-    "category": "Mobiles",
-    "image": "📱",
-    "description": "Latest iPhone model with high performance.",
-    "isFeatured": true
-  },
-    {
-    "id": "p-001",
-    "name": "iPhone 16",
-    "price": 1200,
-    "oldPrice": 1400,
-    "category": "Mobiles",
-    "image": "📱",
-    "description": "Latest iPhone model with high performance.",
-    "isFeatured": true
-  },
-    {
-    "id": "p-001",
-    "name": "iPhone 16",
-    "price": 1200,
-    "oldPrice": 1400,
-    "category": "Mobiles",
-    "image": "📱",
-    "description": "Latest iPhone model with high performance.",
-    "isFeatured": true
+    "id": "P001",
+    "name": "بن ابو عوف وسط محوج 200 جم",
+    "price": 220,
+    "category": "شاي وبن",
+    "description": ""
   },
   {
-    "id": "p-002",
-    "name": "Samsung Galaxy S25",
-    "price": 1100,
-    "oldPrice": 1250,
-    "category": "Mobiles",
-    "image": "📱",
-    "description": "Premium Android phone with excellent display.",
-    "isFeatured": true
+    "id": "P002",
+    "name": "بن ابو عوف فاتح ساده 200جم",
+    "price": 190,
+    "category": "شاي وبن",
+    "description": ""
   },
   {
-    "id": "p-003",
-    "name": "MacBook Pro",
-    "price": 2500,
-    "oldPrice": 2800,
-    "category": "Laptops",
-    "image": "💻",
-    "description": "Powerful laptop for professional users.",
-    "isFeatured": true
+    "id": "P003",
+    "name": "بن ابو عوف وسط ساده 100جم",
+    "price": 85,
+    "category": "شاي وبن",
+    "description": ""
   },
   {
-    "id": "p-004",
-    "name": "Lenovo ThinkPad",
-    "price": 1500,
-    "category": "Laptops",
-    "image": "💻",
-    "description": "Reliable business laptop for daily work."
+    "id": "P004",
+    "name": "بن ابو عوف محوج 100 جم",
+    "price": 100,
+    "category": "شاي وبن",
+    "description": ""
   },
   {
-    "id": "p-005",
-    "name": "Wireless Headphones",
+    "id": "P005",
+    "name": "بن ابو عوف فاتح ساده 50 جم",
+    "price": 45,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P006",
+    "name": "ابو عوف غامق محوج",
+    "price": 190,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P007",
+    "name": "ابو عوف ساده 100 جم",
+    "price": 320,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P008",
+    "name": "ابو عوف بن ساده وسط 200جم",
+    "price": 145,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P009",
+    "name": "ابو عوف محوج وسط 100 جم",
+    "price": 100,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P010",
+    "name": "ابو عوف بن وسط محوج",
+    "price": 190,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P011",
+    "name": "ابو عوف ساده فاتح 200 جم",
+    "price": 155,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P012",
+    "name": "بن شاهين محوج فاتح 50 جم",
+    "price": 45,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P013",
+    "name": "النجار نص كيلو",
+    "price": 320,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P014",
+    "name": "بن الغرباوي ساده 100 جم",
+    "price": 85,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P015",
+    "name": "بن شاهين ساده فاتح 50 جم",
+    "price": 36,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P016",
+    "name": "بن الداله",
+    "price": 170,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P017",
+    "name": "بن النجار ساده 40 جم",
+    "price": 30,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P018",
+    "name": "بن الغرباوي محوج ربع",
+    "price": 200,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P019",
+    "name": "بن النجار محوج فاتح 200 جم",
     "price": 180,
-    "oldPrice": 240,
-    "category": "Accessories",
-    "image": "🎧",
-    "description": "Comfortable headphones with noise isolation."
+    "category": "شاي وبن",
+    "description": ""
   },
   {
-    "id": "p-006",
-    "name": "Smart Watch",
-    "price": 300,
-    "oldPrice": 350,
-    "category": "Accessories",
-    "image": "⌚",
-    "description": "Track activity, calls, and notifications."
+    "id": "P020",
+    "name": "بن النجار فاتح ساده 250ملل",
+    "price": 180,
+    "category": "شاي وبن",
+    "description": ""
   },
   {
-    "id": "p-007",
-    "name": "Home Router",
+    "id": "P021",
+    "name": "بن الدله",
+    "price": 145,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P022",
+    "name": "بن الدله ساده 50جم",
+    "price": 75,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P023",
+    "name": "بن الغرباوي محوج 100جم",
+    "price": 95,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P024",
+    "name": "بن النجار فاتح 125 محوج",
+    "price": 120,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P025",
+    "name": "بن النجار محوج 40 جم",
+    "price": 32,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P026",
+    "name": "بن الغرباوي ساده ربع",
+    "price": 175,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P027",
+    "name": "بن النجار 100جم",
+    "price": 85,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P028",
+    "name": "بن شاهين ساده فاتح 100جم",
+    "price": 70,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P029",
+    "name": "بن الداله محوج",
     "price": 90,
-    "category": "Internet Devices",
-    "image": "📶",
-    "description": "Fast Wi-Fi router for home connection."
+    "category": "شاي وبن",
+    "description": ""
   },
   {
-    "id": "p-008",
-    "name": "4G MiFi",
-    "price": 65,
-    "oldPrice": 80,
-    "category": "Internet Devices",
-    "image": "📡",
-    "description": "Portable internet device for travel."
+    "id": "P030",
+    "name": "نوريكا بن فاتح ساده",
+    "price": 10,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P031",
+    "name": "نوريكا 100 جم فاتح ساده",
+    "price": 85,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P032",
+    "name": "نوريكا محوج",
+    "price": 12,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P033",
+    "name": "بن العمده صغير فاتح ساده",
+    "price": 8,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P034",
+    "name": "بن العمده محوج",
+    "price": 9,
+    "category": "شاي وبن",
+    "description": ""
+  },
+  {
+    "id": "P035",
+    "name": "سمنه روابي 1.5ك",
+    "price": 180,
+    "category": "زيوت وسمنه",
+    "description": ""
+  },
+  {
+    "id": "P036",
+    "name": "سمنه روابي 700 جرام",
+    "price": 95,
+    "category": "زيوت وسمنه",
+    "description": ""
+  },
+  {
+    "id": "P037",
+    "name": "فرن جولدن مكس كيلو و نص",
+    "price": 270,
+    "category": "زيوت وسمنه",
+    "description": ""
+  },
+  {
+    "id": "P038",
+    "name": "كريستال سمنه 1.5 اصفر",
+    "price": 200,
+    "category": "زيوت وسمنه",
+    "description": ""
+  },
+  {
+    "id": "P039",
+    "name": "زيت عافيا عباد 2200ملل",
+    "price": 240,
+    "category": "زيوت وسمنه",
+    "description": ""
+  },
+  {
+    "id": "P040",
+    "name": "صني زيت",
+    "price": 400,
+    "category": "زيوت وسمنه",
+    "description": ""
+  },
+
+  "...",
+
+  {
+    "id": "P080",
+    "name": "عرض ميرو مربي",
+    "price": 108,
+    "category": "عسل ومربي",
+    "description": ""
   }
 ]

@@ -7,7 +7,7 @@ import OfferSection from '../components/OfferSection';
 import CategorySection from '../components/CategorySection';
 import BottomNavigation from '../components/BottomNavigation';
 
-const products: Product[] = productsData;
+const products: Product[] = productsData as Product[];
 
 function Home() {
   const [searchText, setSearchText] = useState('');

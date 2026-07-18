@@ -34,7 +34,7 @@ function Home() {
   );
 
   return (
-    <main className="app-shell">
+    <main className="app-shell" dir="rtl">
       <Header searchText={searchText} onSearchChange={setSearchText} />
       <OfferSection />
 

@@ -17,12 +17,12 @@ function CategorySection({ category, products }: CategorySectionProps) {
       <div className="section-title-row">
         <h2>{category}</h2>
         <div className="section-actions">
-          <span className="count-label">{products.length} items</span>
           {hasMoreProducts && (
             <button className="text-button" onClick={() => setShowAll((value) => !value)}>
-              {showAll ? 'Hide all' : 'Show all'}
+              {showAll ? 'اخفاء' : 'عرض الكل '}
             </button>
           )}
+           {/* <span className="count-label">{products.length} منتجات</span> */}
         </div>
       </div>
 

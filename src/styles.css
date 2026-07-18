@@ -123,6 +123,10 @@ h1 {
 }
 
 .section-title-row h2 {
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgb(31 31 31 / 8%);
   font-size: 1.1rem;
 }
 

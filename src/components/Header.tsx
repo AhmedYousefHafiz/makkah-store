@@ -8,7 +8,7 @@ function Header({ searchText, onSearchChange }: HeaderProps) {
     <header className="app-header">
       <div className="header-top">
         <div>
-          <p className="welcome-text">Welcome</p>
+          <p className="welcome-text">مرحبا" بك</p>
           <h1>مكة ماركت</h1>
         </div>
         <div className="profile-button" aria-label="User profile">A</div>
@@ -18,7 +18,7 @@ function Header({ searchText, onSearchChange }: HeaderProps) {
         <span>🔎</span>
         <input
           value={searchText}
-          placeholder="Search products or categories"
+          placeholder="البحث عن المنتجات"
           onChange={(event) => onSearchChange(event.target.value)}
         />
       </label>

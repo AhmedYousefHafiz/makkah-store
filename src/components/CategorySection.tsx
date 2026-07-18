@@ -9,8 +9,8 @@ type CategorySectionProps = {
 
 function CategorySection({ category, products }: CategorySectionProps) {
   const [showAll, setShowAll] = useState(false);
-  const visibleProducts = showAll ? products : products.slice(0, 3);
-  const hasMoreProducts = products.length > 3;
+  const visibleProducts = showAll ? products : products.slice(0, 2);
+  const hasMoreProducts = products.length > 2;
 
   return (
     <section className="section-block">

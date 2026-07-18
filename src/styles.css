@@ -214,20 +214,16 @@ h1 {
 .product-image {
   display: grid;
   place-items: center;
-  height: 110px;
-  font-size: 3rem;
-  background: linear-gradient(135deg, #f9fafb, #eceff3);
-}
-
-.product-image {
   height: 180px;
   overflow: hidden;
+  background: linear-gradient(135deg, #f9fafb, #eceff3);
 }
 
 .product-photo {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
 }
 
 

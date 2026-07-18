@@ -21,7 +21,7 @@ function OfferSection() {
             <article key={offer.id} className="product-card offer-card">
               <div className="offer-image product-image">
                 <img
-                  src={offer.image ? `./images/${offer.image}` : './images/default.png'}
+                  src={"./images/" + offer.id + ".jpg"}
                   className="offer-photo"
                   onError={(e) => {
                     e.currentTarget.src = './images/default.png';

@@ -13,7 +13,7 @@ function ProductCard({ product }: ProductCardProps) {
     <article className="product-card">
       <div className="product-image" aria-hidden="true">
         <img
-          src={"./images/" + product.id + ".jpeg"}
+          src={"./images/" + product.id + ".jpg"}
           className="product-photo"
           onError={(e) => {
             e.currentTarget.src = "./images/default.png";

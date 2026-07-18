@@ -31,5 +31,27 @@
     "backgroundColor": "#00697c",
     "badge": "Limited",
     "image": "default.png"
+  },
+  {
+    "id": "o-004",
+    "title": "Internet Devices",
+    "subtitle": "Special Prices",
+    "description": "Choose routers and portable devices for home or travel.",
+    "price": 2600,
+    "oldPrice": 3400,
+    "backgroundColor": "#00697c",
+    "badge": "Limited",
+    "image": "default.png"
+  },
+  {
+    "id": "o-005",
+    "title": "Internet Devices",
+    "subtitle": "Special Prices",
+    "description": "Choose routers and portable devices for home or travel.",
+    "price": 2600,
+    "oldPrice": 3400,
+    "backgroundColor": "#00697c",
+    "badge": "Limited",
+    "image": "default.png"
   }
 ]

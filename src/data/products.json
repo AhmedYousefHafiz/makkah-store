@@ -1,11 +1,11 @@
 [
   {
     "id": "p-001",
-    "name": "iPhone 16",
+    "name": "iPhone",
     "price": 1200,
     "oldPrice": 1400,
     "category": "Mobiles",
-    "image": "📱",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVQ88UMJu2jlWT4WZLkkW2TfSMiCYBl517FtYGx2ORA&s=10",
     "description": "Latest iPhone model with high performance.",
     "isFeatured": true
   },
@@ -15,7 +15,7 @@
     "price": 1200,
     "oldPrice": 1400,
     "category": "Mobiles",
-    "image": "📱",
+    "image": "/images/sugar.jpeg",
     "description": "Latest iPhone model with high performance.",
     "isFeatured": true
   },

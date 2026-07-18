@@ -15,6 +15,9 @@ function ProductCard({ product }: ProductCardProps) {
         <img
           src={"./images/" + product.id + ".jpeg"}
           className="product-photo"
+          onError={(e) => {
+            e.currentTarget.src = "./images/default.png";
+          }}
         />
 
       </div>

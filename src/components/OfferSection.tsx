@@ -8,7 +8,7 @@ function OfferSection() {
     <section className="section-block">
       <div className="section-title-row">
         <h2>عروض اليوم</h2>
-        <button className="text-button">View all</button>
+        <button className="text-button">عرض الكل</button>
       </div>
 
       <div className="offers-scroll" aria-label="Current offers">

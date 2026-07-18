@@ -9,7 +9,7 @@ function Header({ searchText, onSearchChange }: HeaderProps) {
       <div className="header-top">
         <div>
           <p className="welcome-text">Welcome</p>
-          <h1>Product Catalog</h1>
+          <h1>مكة ماركت</h1>
         </div>
         <div className="profile-button" aria-label="User profile">A</div>
       </div>

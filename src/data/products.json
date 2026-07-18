@@ -15,7 +15,7 @@
     "price": 1200,
     "oldPrice": 1400,
     "category": "Mobiles",
-    "image": "/images/sugar.jpeg",
+    "image": "./images/sugar.jpeg",
     "description": "Latest iPhone model with high performance.",
     "isFeatured": true
   },

@@ -12,7 +12,6 @@ function ProductCard({ product }: ProductCardProps) {
   return (
     <article className="product-card">
       <div className="product-image" aria-hidden="true">
-
         <img
           src={product.image}
           className="product-photo"

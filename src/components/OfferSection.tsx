@@ -7,7 +7,7 @@ function OfferSection() {
   return (
     <section className="section-block">
       <div className="section-title-row">
-        <h2>Today Offers</h2>
+        <h2>عروض اليوم</h2>
         <button className="text-button">View all</button>
       </div>
 

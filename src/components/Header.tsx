@@ -11,7 +11,7 @@ function Header({ searchText, onSearchChange }: HeaderProps) {
           <p className="welcome-text">مرحبا" بك</p>
           <h1>مكة ماركت</h1>
         </div>
-        <div className="profile-button" aria-label="User profile">A</div>
+        {/* <div className="profile-button" aria-label="User profile">A</div> */}
       </div>
 
       <label className="search-box">

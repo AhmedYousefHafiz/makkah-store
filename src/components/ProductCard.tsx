@@ -27,8 +27,8 @@ function ProductCard({ product }: ProductCardProps) {
         <p>{product.description}</p>
 
         <div className="price-row">
-          <span className="current-price">${product.price}</span>
-          {product.oldPrice && <span className="old-price">${product.oldPrice}</span>}
+          <span className="current-price">{product.price} ج.م</span>
+          {product.oldPrice && <span className="old-price">{product.oldPrice} ج.م</span>}
         </div>
 
         {discount > 0 && <span className="discount-badge">-{discount}%</span>}

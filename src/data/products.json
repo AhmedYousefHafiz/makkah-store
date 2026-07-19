@@ -115,14 +115,14 @@
   "id": "P017",
   "name": "صلصه بيوريه فاين فودز 360 جرام ",
   "price": 60,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
   "id": "P018",
   "name": "صلصه التقوى 300 جرام ",
   "price": 21,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
@@ -136,98 +136,98 @@
   "id": "P020",
   "name": "V  كولا  سوبر صودا300ملى",
   "price": 17,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P021",
   "name": "في ليمون صودا 300مللى ",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P022",
   "name": "حليب يا اشطه 500 جرام ",
   "price": 17,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P023",
   "name": "ليبتون ناعم 40 جرام ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شاى",
   "description": ""
  },
  {
   "id": "P024",
   "name": "شاى ربيع 40 جرام ",
   "price": 11,
-  "category": "ارز و مكرونة",
+  "category": "شاى",
   "description": ""
  },
  {
   "id": "P025",
   "name": "نسكافيه 3*1 شوت",
   "price": 8,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
   "id": "P026",
   "name": "ايزيزس مشروب نعناع بابونج 20كيس",
   "price": 28,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات ساخنة",
   "description": ""
  },
  {
   "id": "P027",
   "name": "ايزيس  زعتر 20كيس",
   "price": 26,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات ساخنة",
   "description": ""
  },
  {
   "id": "P028",
   "name": "مشروب تابج  برتقال ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "عصائر",
   "description": ""
  },
  {
   "id": "P029",
   "name": "مشروب تانج مانجو",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "عصائر",
   "description": ""
  },
  {
   "id": "P030",
   "name": "بسكويت وان مور ب 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
   "id": "P031",
   "name": "كيك تى تي فراوله ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
   "id": "P032",
   "name": "بسكويت بسكاتو بكريمه البرتقال ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
   "id": "P033",
   "name": "بسكويت بسكاتو بكريمه الفانيليا",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
@@ -241,14 +241,14 @@
   "id": "P035",
   "name": "بسكويت بسكاتو بكريمه الفراوله ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
   "id": "P036",
   "name": "نيوتيلا 150 جرام نيومور",
   "price": 21,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
@@ -262,28 +262,28 @@
   "id": "P038",
   "name": "تي تي فانيليل",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
   "id": "P039",
   "name": "تي تي رول فراوله ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
   "id": "P040",
   "name": "تى تى مارش",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
   "id": "P041",
   "name": "تى تى مكسرات",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
@@ -297,7 +297,7 @@
   "id": "P043",
   "name": "سكر شمندر كيلو ",
   "price": 30,
-  "category": "ارز و مكرونة",
+  "category": "سكر",
   "description": ""
  },
  {
@@ -339,7 +339,7 @@
   "id": "P049",
   "name": "فانيليل دريم جامبو 4 جرام",
   "price": 2,
-  "category": "ارز و مكرونة",
+  "category": "متنوع",
   "description": ""
  },
  {
@@ -353,84 +353,84 @@
   "id": "P051",
   "name": "صلصه التقوى ظرف 40 جرام",
   "price": 3,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
   "id": "P052",
   "name": "نستو بالهنا 8 قطع",
   "price": 17,
-  "category": "ارز و مكرونة",
+  "category": "الجبن",
   "description": ""
  },
  {
   "id": "P053",
   "name": "ملح التقوى كيس",
   "price": 2,
-  "category": "ارز و مكرونة",
+  "category": "خلطات و توابل",
   "description": ""
  },
  {
   "id": "P054",
   "name": "مرقه دجاج كنور فراخ 12 مكعب",
   "price": 17,
-  "category": "ارز و مكرونة",
+  "category": "خلطات و توابل",
   "description": ""
  },
  {
   "id": "P055",
   "name": "بيرسول",
   "price": 44,
-  "category": "ارز و مكرونة",
+  "category": "منظفات",
   "description": ""
  },
  {
   "id": "P056",
   "name": "مناديل مواسم 500 منديل ",
   "price": 25,
-  "category": "ارز و مكرونة",
+  "category": "المنظفات",
   "description": ""
  },
  {
   "id": "P057",
   "name": "منداديل مواسم عرض 3 علب (500 منديل )",
   "price": 70,
-  "category": "ارز و مكرونة",
+  "category": "المنظفات",
   "description": ""
  },
  {
   "id": "P058",
   "name": "صابونه جوى 110 جم",
   "price": 14,
-  "category": "ارز و مكرونة",
+  "category": "المنظفات",
   "description": ""
  },
  {
   "id": "P059",
   "name": "باهى 410 جرام",
   "price": 24,
-  "category": "ارز و مكرونة",
+  "category": "منظفات",
   "description": ""
  },
  {
   "id": "P060",
   "name": "باهى 215 جرام",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "منظفات",
   "description": ""
  },
  {
   "id": "P061",
   "name": "مياه ايلانو كبير ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "مياه معدنيه",
   "description": ""
  },
  {
   "id": "P062",
   "name": "مياه ايلانو صغير ",
   "price": 6,
-  "category": "ارز و مكرونة",
+  "category": "مياه معدنيه",
   "description": ""
  },
  {
@@ -444,154 +444,154 @@
   "id": "P064",
   "name": "مربي فراوله اد مى  360 جرام",
   "price": 34,
-  "category": "ارز و مكرونة",
+  "category": "مربي",
   "description": ""
  },
  {
   "id": "P065",
   "name": "صلصه وادى فود ظرف 35 جم",
   "price": 3,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
   "id": "P066",
   "name": "صلصه ظرف  الرشيدى للميزان ",
   "price": 2.5,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
   "id": "P067",
   "name": "صلصه وادى فود 360 ملى ",
   "price": 32,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
   "id": "P068",
   "name": "صلصه كاتشى 280 جرام ",
   "price": 21,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
   "id": "P069",
   "name": "صلصه الرشيدى للميزان 360 مل",
   "price": 25,
-  "category": "ارز و مكرونة",
+  "category": "صوصات",
   "description": ""
  },
  {
   "id": "P070",
   "name": "برافو شيبسي كباب 10",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P071",
   "name": "كارتيلو  فلفل حلو 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P072",
   "name": "كارتيلو جبنه 5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P073",
   "name": "زيوو بافس 5 جنيه طماطم",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P074",
   "name": "خل فرحه",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "سمن و زيوت",
   "description": ""
  },
  {
   "id": "P075",
   "name": "خل تفاح ",
   "price": 56,
-  "category": "ارز و مكرونة",
+  "category": "سمن و زيوت",
   "description": ""
  },
  {
   "id": "P076",
   "name": "بيج كولا اكشن 360 ملى",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P077",
   "name": "اندومى الفراج 5 جنيه ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P078",
   "name": "اندومى لحمه 5 جنيه ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P079",
   "name": "اندومى خضار ب 5 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P080",
   "name": "اندومى جامبو خضار 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P081",
   "name": "كيلوجز نودلز 70 جرام  جق شرقي  ب 5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P082",
   "name": "كيلوجز نودلز خضار حار 55 جرام ب 5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P083",
   "name": "كيلوجز فراخ مليه حار كبرب ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P084",
   "name": "كيلودز فراج 55 جرام ب 5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
   "id": "P085",
   "name": "كيلودز نودلز  خضروات 55 جرام ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
@@ -605,7 +605,7 @@
   "id": "P087",
   "name": "كرواوسن مروولا كراميل  ب 5 جنيه ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "باتية و مخبوزات ",
   "description": ""
  },
  {
@@ -626,35 +626,35 @@
   "id": "P090",
   "name": "تونكيز جامبو 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P091",
   "name": "تونكيز كريمه فراوله ب 5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P092",
   "name": "تونكيز جامبو كريمه وفرواله ب 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P093",
   "name": "كرواسوان لمبادا ب 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P094",
   "name": "كيك فان داى فانيليا 5",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
@@ -675,35 +675,35 @@
   "id": "P097",
   "name": "كب كيك   فراوله فان داى 5 جنيه ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P098",
   "name": "تاو تاو  كريمه ب 5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P099",
   "name": "لارش ميلت  ب 20 جنيه",
   "price": 20,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P100",
   "name": "بيكنج بودر حلو الشام ",
   "price": 3,
-  "category": "ارز و مكرونة",
+  "category": "مستلزمات الحلويات",
   "description": ""
  },
  {
   "id": "P101",
   "name": "فانيليا حلو الشام ",
   "price": 1.5,
-  "category": "ارز و مكرونة",
+  "category": "مستلزمات الحلويات",
   "description": ""
  },
  {
@@ -717,7 +717,7 @@
   "id": "P103",
   "name": "هريسه شطه الرحيق 180 جم",
   "price": 32,
-  "category": "ارز و مكرونة",
+  "category": "سكر",
   "description": ""
  },
  {
@@ -794,119 +794,119 @@
   "id": "P114",
   "name": "بليزو بندق 10جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P115",
   "name": "بليزو جولد 10جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P116",
   "name": "بليزو فراوله كبير 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P117",
   "name": "كيك بومب 10جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P118",
   "name": "كرانشي شطه وليمون 15 جنيه",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P119",
   "name": "دوريتوس باربكيو مدخن",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P120",
   "name": "شيتوس جبنه 5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P121",
   "name": "شيتوس  جبنه كبير 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P122",
   "name": "ناتشو حبنه ناتشو 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P123",
   "name": "ناتشو  بالفلفل 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P124",
   "name": "شيل اوت كريمه 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P125",
   "name": "شيكا بوبس 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P126",
   "name": "جاكور  جبنه 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P127",
   "name": "جاكور تشيكن كوري 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P128",
   "name": "جاكور جاتشب 10جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P129",
   "name": "تايجر جبنه متبله 10جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P130",
   "name": "زيوو جينه ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
@@ -920,42 +920,42 @@
   "id": "P132",
   "name": "دوريتوس فلفل حلو 15 جنيه",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P133",
   "name": "دوريتوس فلفل بارد ب 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P134",
   "name": "سفن لتر ونص ",
   "price": 40,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P135",
   "name": "فلامنكو جبنة متبلة",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P136",
   "name": "سن توب عضير درجون فروت ",
   "price": 13,
-  "category": "ارز و مكرونة",
+  "category": "عصائر",
   "description": ""
  },
  {
   "id": "P137",
   "name": "سن توب يوسفي مشطشط",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "عصائر",
   "description": ""
  },
  {
@@ -969,7 +969,7 @@
   "id": "P139",
   "name": "بيض أحمر بالواحده",
   "price": 5,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -983,91 +983,91 @@
   "id": "P141",
   "name": "دقيق الكوثر  كيلو ",
   "price": 27,
-  "category": "ارز و مكرونة",
+  "category": "مستلزمات الحلويات",
   "description": ""
  },
  {
   "id": "P142",
   "name": "كماراا كيك ب 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P143",
   "name": "تودو  كب كيك  15 جنيه",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P144",
   "name": "تونكيز دو 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P145",
   "name": "تونكيز دو 10جنيه فراوله",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P146",
   "name": "بن العمده صغيرساده فاتح",
   "price": 8,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
   "id": "P147",
   "name": "بن العمده محوج ",
   "price": 9,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
   "id": "P148",
   "name": "شيل اوت بطعم الكريمه 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P149",
   "name": "شيل اوت شطه ب 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P150",
   "name": "جاكور جبنه حلوه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P151",
   "name": "كوكس ملح هيمالايا الصخرى",
   "price": 35,
-  "category": "ارز و مكرونة",
+  "category": "خلطات و توابل",
   "description": ""
  },
  {
   "id": "P152",
   "name": "تتبيله بطاطس ازى كويك",
   "price": 3.5,
-  "category": "ارز و مكرونة",
+  "category": "خلطات و توابل",
   "description": ""
  },
  {
   "id": "P153",
   "name": "سكوتش منت ",
   "price": 4,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
@@ -1081,42 +1081,42 @@
   "id": "P155",
   "name": "فرن جولدن مكس كيلو ونص",
   "price": 270,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P156",
   "name": "مكسي كولا لتر  ",
   "price": 23,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P157",
   "name": "لانشون بالزيتون",
   "price": 180,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P158",
   "name": "كيري لبن طبيعى ",
   "price": 200,
-  "category": "ارز و مكرونة",
+  "category": "الجبن",
   "description": ""
  },
  {
   "id": "P159",
   "name": "مناديل زينه  اروما عود عرض 3عبوات 500منديل ",
   "price": 95,
-  "category": "ارز و مكرونة",
+  "category": "متنوع",
   "description": ""
  },
  {
   "id": "P160",
   "name": "مناديل زينه عود 500منديل ",
   "price": 35,
-  "category": "ارز و مكرونة",
+  "category": "متنوع",
   "description": ""
  },
  {
@@ -1130,231 +1130,231 @@
   "id": "P162",
   "name": "مخلل بوليف",
   "price": 50,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P163",
   "name": "لبن  بلدى  طبيعى",
   "price": 38,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P164",
   "name": "لانشون اطياب لحم",
   "price": 320,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P165",
   "name": "مناديل ايزى باك ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "متنوع",
   "description": ""
  },
  {
   "id": "P166",
   "name": "مناديل جيب  3  جنيه",
   "price": 3,
-  "category": "ارز و مكرونة",
+  "category": "متنوع",
   "description": ""
  },
  {
   "id": "P167",
   "name": "رز بلبن فرن ",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P168",
   "name": "براميلي ساده /بالفلفل عرض",
   "price": 180,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P169",
   "name": "حلاوه طحينيه سمسم طبيعى (عرض خاص)",
   "price": 170,
-  "category": "ارز و مكرونة",
+  "category": "حلاوة طحينية",
   "description": ""
  },
  {
   "id": "P170",
   "name": "باتيه برنش بالجبنه الرومى",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "باتية و مخبوزات ",
   "description": ""
  },
  {
   "id": "P171",
   "name": "باتيه بالجبنه الرومى",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "باتية و مخبوزات ",
   "description": ""
  },
  {
   "id": "P172",
   "name": "توك المملح ",
   "price": 12,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P173",
   "name": "سفن كنز  355",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P174",
   "name": "مكسي ليمون",
   "price": 22,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P175",
   "name": "مكسي شعير اناناس",
   "price": 23,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
   "id": "P176",
   "name": "نشا التقوى",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مستلزمات الحلويات",
   "description": ""
  },
  {
   "id": "P177",
   "name": "جبنه تلاجه ملح خفيف",
   "price": 150,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P178",
   "name": "مارشميلو 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P179",
   "name": "اونيرو 10جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P180",
   "name": "جيليتو  5 جنيه",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P181",
   "name": "مالتى ستار ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P182",
   "name": "سكتلز مصرى",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
   "id": "P183",
   "name": "بيك رولز بيتزا 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P184",
   "name": "بريك  خضار ب 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P185",
   "name": "جاكور فلفل حلو 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P186",
   "name": "جاكور شطه وليمون 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P187",
   "name": "جاكور  تشيز برجر 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P188",
   "name": "جاكور ذره حلوه 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P189",
   "name": "شيل اوت جبنه 10 جنيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P190",
   "name": "شيل اوت خل وملح 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P191",
   "name": "شيل اوت فراخ ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P192",
   "name": "شيل اوت   سبيسي 10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P193",
   "name": "شيل اوت رومى  10 جنيه ",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
   "id": "P194",
   "name": "تويست 250 ",
   "price": 17,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات طاقة",
   "description": ""
  },
  {
@@ -1368,14 +1368,14 @@
   "id": "P196",
   "name": "مزاج توت ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "ايس كريم",
   "description": ""
  },
  {
   "id": "P197",
   "name": "ديو",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
@@ -1424,56 +1424,56 @@
   "id": "P204",
   "name": "ارز بلبن ",
   "price": 15,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P205",
   "name": "زبادي بلدي",
   "price": 10,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P206",
   "name": "زبادي بلدي ى10",
   "price": 10,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P207",
   "name": "طبق بيض بلدي 30 ق",
   "price": 130,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P208",
   "name": "كيك ترايفيل - البان",
   "price": 25,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P209",
   "name": "كيك اوريو طاجن - البان",
   "price": 30,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P210",
   "name": "يونيه كافيه كابتشينو كراميل ",
   "price": 9,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
   "id": "P211",
   "name": "كابتشينو شيكةولاته ",
   "price": 9,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
@@ -1543,7 +1543,7 @@
   "id": "P221",
   "name": "لانشون فراخ ",
   "price": 550,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -1564,14 +1564,14 @@
   "id": "P224",
   "name": "زبادي البركه ساده  125 جرام",
   "price": 10,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P225",
   "name": "دانون زبادى طبيعى",
   "price": 8,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -1837,7 +1837,7 @@
   "id": "P263",
   "name": "مراعي تريست فراولة",
   "price": 13,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -2089,14 +2089,14 @@
   "id": "P299",
   "name": "دانجو فراوله عرض",
   "price": 40,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P300",
   "name": "زبادي البركه فراولة 125 جرام",
   "price": 10,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -2586,7 +2586,7 @@
   "id": "P370",
   "name": "بيبسي دايت ",
   "price": 15,
-  "category": "مشروبات غازية",
+  "category": "ارز و مكرونة",
   "description": ""
  },
  {
@@ -4084,7 +4084,7 @@
   "id": "P584",
   "name": "اندومي 5 جنيه كوري",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
@@ -4567,7 +4567,7 @@
   "id": "P653",
   "name": "دانت كراميل ",
   "price": 14,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -5176,7 +5176,7 @@
   "id": "P740",
   "name": "جبنه قريش طبيعى ",
   "price": 160,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -5596,7 +5596,7 @@
   "id": "P800",
   "name": "بيبسي اقل من لتر ",
   "price": 30,
-  "category": "مشروبات غازية",
+  "category": "ارز و مكرونة",
   "description": ""
  },
  {
@@ -6065,7 +6065,7 @@
   "id": "P867",
   "name": "اندومي خضار حار",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
@@ -6562,7 +6562,7 @@
   "id": "P938",
   "name": "بيبسي للاكيله ",
   "price": 10,
-  "category": "مشروبات غازية",
+  "category": "ارز و مكرونة",
   "description": ""
  },
  {
@@ -8102,7 +8102,7 @@
   "id": "P1158",
   "name": "لبن عبور كيلو",
   "price": 49,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -8158,7 +8158,7 @@
   "id": "P1166",
   "name": "جهينه ميكس 200مل",
   "price": 13,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -8249,7 +8249,7 @@
   "id": "P1179",
   "name": "لبن جهينه كامل الدسم لتر ",
   "price": 52,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -8578,7 +8578,7 @@
   "id": "P1226",
   "name": " لبن بخيره لتر ",
   "price": 42,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -8641,7 +8641,7 @@
   "id": "P1235",
   "name": "لبن بخيره 1/2 كيلو عرض خاص",
   "price": 23,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -8802,7 +8802,7 @@
   "id": "P1258",
   "name": "دانون فراوله 120 جم",
   "price": 17,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -8837,7 +8837,7 @@
   "id": "P1263",
   "name": "لبن جهينه ساده 200مل",
   "price": 13,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -8893,7 +8893,7 @@
   "id": "P1271",
   "name": "اندومي جامبو لحمه  10 جنيه",
   "price": 10,
-  "category": "متنوع",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
@@ -8907,7 +8907,7 @@
   "id": "P1273",
   "name": "اندومي خضار جامبو ب 10 جنيه",
   "price": 10,
-  "category": "متنوع",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
@@ -9306,7 +9306,7 @@
   "id": "P1330",
   "name": "اندومي فراخ كبير 10جنيه",
   "price": 10,
-  "category": "متنوع",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
@@ -9488,7 +9488,7 @@
   "id": "P1356",
   "name": "رودس بسطرمة 1\\2ك",
   "price": 48,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -9957,7 +9957,7 @@
   "id": "P1423",
   "name": "كيس لبن بالهنا",
   "price": 19,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -10034,7 +10034,7 @@
   "id": "P1434",
   "name": "جهينة زبادو توت 220",
   "price": 19,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -10097,7 +10097,7 @@
   "id": "P1443",
   "name": "جهينة زبادو توت 440",
   "price": 32,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -10447,7 +10447,7 @@
   "id": "P1493",
   "name": "راني خوخ كنز",
   "price": 20,
-  "category": "مشروبات",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
@@ -12638,14 +12638,14 @@
   "id": "P1806",
   "name": "لبن لبنيتا 1لتر",
   "price": 49,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P1807",
   "name": "المراعي يوجو خوخ ",
   "price": 30,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -12785,7 +12785,7 @@
   "id": "P1827",
   "name": "جهينة رايب ليمون 440",
   "price": 32,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -12834,7 +12834,7 @@
   "id": "P1834",
   "name": "جهينة كريمة طهي 200",
   "price": 70,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -12869,7 +12869,7 @@
   "id": "P1839",
   "name": "جهينه رايب ليمون 220",
   "price": 20,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -12883,7 +12883,7 @@
   "id": "P1841",
   "name": "المراعي تريتس توت ",
   "price": 13,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -12939,14 +12939,14 @@
   "id": "P1849",
   "name": "المراعي زبادي خوخ ",
   "price": 10,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
   "id": "P1850",
   "name": "جهينة كريمة خفق 200جم",
   "price": 70,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -13002,7 +13002,7 @@
   "id": "P1858",
   "name": "جهينة رايب لايت ",
   "price": 20,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -13058,7 +13058,7 @@
   "id": "P1866",
   "name": "12 زبادي جهينه",
   "price": 120,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -13527,7 +13527,7 @@
   "id": "P1933",
   "name": "فورنو فلفل حلو",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
@@ -13576,28 +13576,28 @@
   "id": "P1940",
   "name": "هابي2",
   "price": 3,
-  "category": "ارز و مكرونة",
+  "category": "الحلويات",
   "description": ""
  },
  {
   "id": "P1941",
   "name": "نسكافيه شوت3*1\n",
   "price": 8,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
   "id": "P1942",
   "name": "نودلز شطه 10ج",
   "price": 11,
-  "category": "ارز و مكرونة",
+  "category": "بقوليات",
   "description": ""
  },
  {
   "id": "P1943",
   "name": "فورنو الجبنه الفرنسيه",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
@@ -13723,7 +13723,7 @@
   "id": "P1961",
   "name": "شريط داملا فراوله",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "الحلويات",
   "description": ""
  },
  {
@@ -13737,7 +13737,7 @@
   "id": "P1963",
   "name": "لبان بنكهة الموز",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "الحلويات",
   "description": ""
  },
  {
@@ -13786,7 +13786,7 @@
   "id": "P1970",
   "name": "مارشميلو تيكا",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "الحلويات",
   "description": ""
  },
  {
@@ -13835,7 +13835,7 @@
   "id": "P1977",
   "name": "لبان سعودي نعناع",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "الحلويات",
   "description": ""
  },
  {
@@ -14017,7 +14017,7 @@
   "id": "P2003",
   "name": "زبادي جهينه ساده180ج",
   "price": 17,
-  "category": "ارز و مكرونة",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -14038,7 +14038,7 @@
   "id": "P2006",
   "name": "اندومي خضار5ج",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "مكرونه سريعة التحضير",
   "description": ""
  },
  {
@@ -14108,7 +14108,7 @@
   "id": "P2016",
   "name": "كوفي ميلك مزارع دينا ",
   "price": 26,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -14164,7 +14164,7 @@
   "id": "P2024",
   "name": "مكرونه صوص الضحي ",
   "price": 35,
-  "category": "ارز و مكرونة",
+  "category": "المكرونه",
   "description": ""
  },
  {
@@ -14199,7 +14199,7 @@
   "id": "P2029",
   "name": "شيبسي فلفل حلو 10ج",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {
@@ -14248,7 +14248,7 @@
   "id": "P2036",
   "name": "لبان بنكهة الفراوله",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "الحلويات",
   "description": ""
  },
  {
@@ -14276,7 +14276,7 @@
   "id": "P2040",
   "name": "هوهوز",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "الحلويات",
   "description": ""
  },
  {
@@ -14290,7 +14290,7 @@
   "id": "P2042",
   "name": "بسكوت بوريو",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
@@ -14304,7 +14304,7 @@
   "id": "P2044",
   "name": "بن النجار 100 جرام",
   "price": 85,
-  "category": "البان",
+  "category": "زبادي والبان",
   "description": ""
  },
  {
@@ -14339,14 +14339,14 @@
   "id": "P2049",
   "name": "نسكافيه اسبرسو",
   "price": 8,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
   "id": "P2050",
   "name": "اوكسي 2ك نسيم الشرق",
   "price": 125,
-  "category": "ارز و مكرونة",
+  "category": "المنظفات",
   "description": ""
  },
  {
@@ -14381,7 +14381,7 @@
   "id": "P2055",
   "name": "بيبسي 1.5لتر",
   "price": 25,
-  "category": "ارز و مكرونة",
+  "category": "مشروبات غازية",
   "description": ""
  },
  {
@@ -14472,7 +14472,7 @@
   "id": "P2068",
   "name": "اولكر  شاي 5 ",
   "price": 5,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
@@ -14493,14 +14493,14 @@
   "id": "P2071",
   "name": "ابوعوف ساده 500ج",
   "price": 320,
-  "category": "ارز و مكرونة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
   "id": "P2072",
   "name": "حلوه 5لتر عرض خاص ",
   "price": 365,
-  "category": "ارز و مكرونة",
+  "category": "الزيوت",
   "description": ""
  },
  {
@@ -14528,7 +14528,7 @@
   "id": "P2076",
   "name": "اولكر تمر.",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
@@ -14563,7 +14563,7 @@
   "id": "P2081",
   "name": "بسكوت اولكر فنجر 10",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "البسكوت",
   "description": ""
  },
  {
@@ -14584,7 +14584,7 @@
   "id": "P2084",
   "name": "شيبسي كباب 10ج",
   "price": 10,
-  "category": "ارز و مكرونة",
+  "category": "شيبسي",
   "description": ""
  },
  {

@@ -3,17 +3,18 @@ import { Product } from '../types/Product';
 import ProductCard from './ProductCard';
 
 type CategorySectionProps = {
+  id?: string;
   category: string;
   products: Product[];
 };
 
-function CategorySection({ category, products }: CategorySectionProps) {
+function CategorySection({ id, category, products }: CategorySectionProps) {
   const [showAll, setShowAll] = useState(false);
   const visibleProducts = showAll ? products : products.slice(0, 2);
   const hasMoreProducts = products.length > 2;
 
   return (
-    <section className="section-block">
+    <section className="section-block" id={id}>
       <div className="section-title-row">
         <h2>{category}</h2>
         <div className="section-actions">

@@ -147,6 +147,46 @@ h1 {
   padding: 0;
 }
 
+.groups-section {
+  margin-top: 20px;
+}
+
+.groups-scroll {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.group-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 8px;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgb(31 31 31 / 8%);
+}
+
+.group-card-image {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  object-fit: cover;
+  background: linear-gradient(135deg, #f9fafb, #eceff3);
+}
+
+.group-card-name {
+  color: #1f1f1f;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.category-screen {
+  margin-top: 20px;
+}
+
 .offers-scroll {
   display: flex;
   gap: 12px;

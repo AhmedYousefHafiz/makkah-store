@@ -60,12 +60,8 @@
     "image": "categories/C-015.jpeg"
   },
   {
-    "name": "متنوع",
-    "image": "categories/C-016.jpeg"
-  },
-  {
     "name": "خلطات و توابل",
-    "image": "categories/C-017.jpeg"
+    "image": "categories/C-016.jpeg"
   },
   {
     "name": "منظفات",
@@ -186,5 +182,10 @@
   {
     "name": "سبريد",
     "image": "categories/C-047.jpeg"
+  },
+    {
+    "name": "متنوع",
+    "image": "categories/C-048.jpeg"
   }
+
 ]

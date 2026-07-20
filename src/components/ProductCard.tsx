@@ -11,7 +11,7 @@ function ProductCard({ product }: ProductCardProps) {
 
   return (
     <article className="product-card">
-      <div className="product-image" aria-hidden="true">
+      {/* <div className="product-image" aria-hidden="true">
         <img
           src={"./images/" + product.id + ".jpg"}
           className="product-photo"
@@ -20,7 +20,7 @@ function ProductCard({ product }: ProductCardProps) {
           }}
         />
 
-      </div>
+      </div> */}
 
       <div className="product-content">
         <h3>{product.name}</h3>

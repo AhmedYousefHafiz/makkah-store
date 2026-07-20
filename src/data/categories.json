@@ -4,187 +4,187 @@
     "image": "categories/C-001.jpeg"
   },
   {
-    "name": "سكر",
-    "image": "default.png"
-  },
-  {
     "name": "مشروبات غازية",
     "image": "categories/C-002.jpeg"
   },
   {
     "name": "مياه معدنيه",
-    "image": "default.png"
+    "image": "categories/C-003.jpeg"
+  },
+    {
+    "name": "سكر",
+    "image": "categories/C-004.jpeg"
   },
   {
     "name": "كيك وحلويات",
-    "image": "default.png"
+    "image": "categories/C-005.jpeg"
   },
   {
     "name": "الزيوت",
-    "image": "default.png"
+    "image": "categories/C-006.jpeg"
   },
   {
     "name": "صوصات",
-    "image": "default.png"
+    "image": "categories/C-007.jpeg"
   },
   {
     "name": "شيكولاته",
-    "image": "default.png"
+    "image": "categories/C-008.jpeg"
   },
   {
     "name": "زبادي والبان",
-    "image": "default.png"
+    "image": "categories/C-009.jpeg"
   },
   {
     "name": "شاى",
-    "image": "default.png"
+    "image": "categories/C-010.jpeg"
   },
   {
     "name": "بن ونسكافيه",
-    "image": "default.png"
+    "image": "categories/C-011.jpeg"
   },
   {
     "name": "مشروبات ساخنة",
-    "image": "default.png"
+    "image": "categories/C-012.jpeg"
   },
   {
     "name": "عصائر",
-    "image": "default.png"
+    "image": "categories/C-013.jpeg"
   },
   {
     "name": "البسكوت",
-    "image": "default.png"
+    "image": "categories/C-014.jpeg"
   },
   {
     "name": "ارز و مكرونة",
-    "image": "default.png"
+    "image": "categories/C-015.jpeg"
   },
   {
     "name": "متنوع",
-    "image": "default.png"
+    "image": "categories/C-016.jpeg"
   },
   {
     "name": "خلطات و توابل",
-    "image": "default.png"
+    "image": "categories/C-017.jpeg"
   },
   {
     "name": "منظفات",
-    "image": "default.png"
+    "image": "categories/C-018.jpeg"
   },
   {
     "name": "المنظفات",
-    "image": "default.png"
+    "image": "categories/C-019.jpeg"
   },
   {
     "name": "مربي",
-    "image": "default.png"
+    "image": "categories/C-020.jpeg"
   },
   {
     "name": "شيبسي",
-    "image": "default.png"
+    "image": "categories/C-021.jpeg"
   },
   {
     "name": "سمن و زيوت",
-    "image": "default.png"
+    "image": "categories/C-022.jpeg"
   },
   {
     "name": "مكرونه سريعة التحضير",
-    "image": "default.png"
+    "image": "categories/C-023.jpeg"
   },
   {
     "name": "باتية و مخبوزات",
-    "image": "default.png"
+    "image": "categories/C-024.jpeg"
   },
   {
     "name": "مستلزمات الحلويات",
-    "image": "default.png"
+    "image": "categories/C-025.jpeg"
   },
   {
     "name": "حلاوة طحينية",
-    "image": "default.png"
+    "image": "categories/C-026.jpeg"
   },
   {
     "name": "مشروبات طاقة",
-    "image": "default.png"
+    "image": "categories/C-027.jpeg"
   },
   {
     "name": "ايس كريم",
-    "image": "default.png"
+    "image": "categories/C-028.jpeg"
   },
   {
     "name": "تمور",
-    "image": "default.png"
+    "image": "categories/C-029.jpeg"
   },
   {
     "name": "توابال",
-    "image": "default.png"
+    "image": "categories/C-030.jpeg"
   },
   {
     "name": "مجمدات",
-    "image": "default.png"
+    "image": "categories/C-031.jpeg"
   },
   {
     "name": "الحلويات",
-    "image": "default.png"
+    "image": "categories/C-032.jpeg"
   },
   {
     "name": "جبن",
-    "image": "default.png"
+    "image": "categories/C-033.jpeg"
   },
   {
     "name": "الدقيق",
-    "image": "default.png"
+    "image": "categories/C-034.jpeg"
   },
   {
     "name": "بسكوتات",
-    "image": "default.png"
+    "image": "categories/C-035.jpeg"
   },
   {
     "name": "المكرونه",
-    "image": "default.png"
+    "image": "categories/C-036.jpeg"
   },
   {
     "name": "السمنه",
-    "image": "default.png"
+    "image": "categories/C-037.jpeg"
   },
   {
     "name": "الفحم",
-    "image": "default.png"
+    "image": "categories/C-038.jpeg"
   },
   {
     "name": "عسل",
-    "image": "default.png"
+    "image": "categories/C-039.jpeg"
   },
   {
     "name": "تونه",
-    "image": "default.png"
+    "image": "categories/C-040.jpeg"
   },
   {
     "name": "بقوليات",
-    "image": "default.png"
+    "image": "categories/C-041.jpeg"
   },
   {
     "name": "عطارة",
-    "image": "default.png"
+    "image": "categories/C-042.jpeg"
   },
   {
     "name": "معلبات",
-    "image": "default.png"
+    "image": "categories/C-043.jpeg"
   },
   {
     "name": "عناية شخصية",
-    "image": "default.png"
+    "image": "categories/C-044.jpeg"
   },
   {
     "name": "مقرمشات",
-    "image": "default.png"
+    "image": "categories/C-045.jpeg"
   },
   {
     "name": "البان",
-    "image": "default.png"
+    "image": "categories/C-046.jpeg"
   },
   {
     "name": "سبريد",
-    "image": "default.png"
+    "image": "categories/C-047.jpeg"
   }
 ]

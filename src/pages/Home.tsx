@@ -52,16 +52,15 @@ function Home() {
 
   return (
     <main className="app-shell" dir="rtl">
-      <Header searchText={searchText} onSearchChange={setSearchText} />
+      <Header searchText={searchText} onSearchChange={setSearchText} showSearch={!!selectedGroup} />
 
       {selectedGroup ? (
         <section className="category-screen">
           <div className="section-title-row">
-             <h2>{selectedGroup.category}</h2>
+            <h2>{selectedGroup.category}</h2>
             <button className="text-button" onClick={() => setSelectedCategory(null)}>
               العودة
             </button>
-           
           </div>
 
           <div className="product-grid">

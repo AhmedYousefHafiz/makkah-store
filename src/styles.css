@@ -169,8 +169,8 @@ h1 {
 }
 
 .group-card-image {
-  width: 56px;
-  height: 56px;
+  width: 75px;
+  height: 75px;
   border-radius: 14px;
   object-fit: cover;
   background: linear-gradient(135deg, #f9fafb, #eceff3);

@@ -57,10 +57,11 @@ function Home() {
       {selectedGroup ? (
         <section className="category-screen">
           <div className="section-title-row">
+             <h2>{selectedGroup.category}</h2>
             <button className="text-button" onClick={() => setSelectedCategory(null)}>
               العودة
             </button>
-            <h2>{selectedGroup.category}</h2>
+           
           </div>
 
           <div className="product-grid">

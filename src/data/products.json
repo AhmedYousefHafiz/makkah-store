@@ -9208,7 +9208,7 @@
   "id": "P1316",
   "name": "مونزريلا الحمد ميكس200",
   "price": 37,
-  "category": "الفحم",
+  "category": "مجمدات",
   "description": ""
  },
  {
@@ -9390,7 +9390,7 @@
   "id": "P1342",
   "name": "تاوتاو 2",
   "price": 5,
-  "category": "الفحم",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
@@ -9586,7 +9586,7 @@
   "id": "P1370",
   "name": "bimboدهبي",
   "price": 5,
-  "category": "الفحم",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
@@ -9621,7 +9621,7 @@
   "id": "P1375",
   "name": "كرانشي فراخ 5ج",
   "price": 5,
-  "category": "الفحم",
+  "category": "شيبسي",
   "description": ""
  },
  {
@@ -9629,13 +9629,6 @@
   "name": "ربيع شاى ناعم 250جم",
   "price": 60,
   "category": "مشروبات ساخنة",
-  "description": ""
- },
- {
-  "id": "P1377",
-  "name": "فراولة",
-  "price": 6,
-  "category": "الفحم",
   "description": ""
  },
  {
@@ -9656,7 +9649,7 @@
   "id": "P1380",
   "name": "رودس قشطه 125 جرام",
   "price": 13,
-  "category": "الفحم",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -9698,7 +9691,7 @@
   "id": "P1386",
   "name": "bimbo",
   "price": 5,
-  "category": "الفحم",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
@@ -9719,7 +9712,7 @@
   "id": "P1389",
   "name": "bimbo احمر ",
   "price": 5,
-  "category": "الفحم",
+  "category": "كيك وحلويات ",
   "description": ""
  },
  {
@@ -9768,7 +9761,7 @@
   "id": "P1396",
   "name": "بن شاهين سادة فاتح 200 جرام",
   "price": 150,
-  "category": "عطارة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
@@ -9810,7 +9803,7 @@
   "id": "P1402",
   "name": "شاهين بن محوج فاتح100 جم",
   "price": 90,
-  "category": "عطارة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
@@ -9838,7 +9831,7 @@
   "id": "P1406",
   "name": "الضحى بقسماط ناعم ",
   "price": 25,
-  "category": "عطارة",
+  "category": "خلطات و توابل",
   "description": ""
  },
  {
@@ -9852,7 +9845,7 @@
   "id": "P1408",
   "name": "الضحى خلطه بهارات 20جم",
   "price": 25,
-  "category": "عطارة",
+  "category": "خلطات و توابل",
   "description": ""
  },
  {
@@ -9999,7 +9992,7 @@
   "id": "P1429",
   "name": "بن شاهين سادة فاتح 100جرام",
   "price": 70,
-  "category": "عطارة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
@@ -10027,7 +10020,7 @@
   "id": "P1433",
   "name": "الضحى قرفة مطحونه 20جم",
   "price": 25,
-  "category": "عطارة",
+  "category": "خلطات و توابل",
   "description": ""
  },
  {
@@ -10069,7 +10062,7 @@
   "id": "P1439",
   "name": "بن شاهين محوج فاتح 50 جرام",
   "price": 45,
-  "category": "عطارة",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
@@ -12169,7 +12162,7 @@
   "id": "P1739",
   "name": "جبنه رودس قشطه ربع",
   "price": 27,
-  "category": "الفحم",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -12239,7 +12232,7 @@
   "id": "P1749",
   "name": "شكولاته corona",
   "price": 20,
-  "category": "الفحم",
+  "category": "شيكولاته",
   "description": ""
  },
  {
@@ -12337,7 +12330,7 @@
   "id": "P1763",
   "name": "كوفي بريك بندق ",
   "price": 12,
-  "category": "الفحم",
+  "category": "بن ونسكافيه",
   "description": ""
  },
  {
@@ -12358,7 +12351,7 @@
   "id": "P1766",
   "name": "فلوتس بيضاء",
   "price": 10,
-  "category": "الفحم",
+  "category": "شيكولاته",
   "description": ""
  },
  {
@@ -12379,7 +12372,7 @@
   "id": "P1769",
   "name": "سردين توليدو",
   "price": 45,
-  "category": "الفحم",
+  "category": "تونه",
   "description": ""
  },
  {
@@ -12442,7 +12435,7 @@
   "id": "P1778",
   "name": "فولكانو ف",
   "price": 14,
-  "category": "الفحم",
+  "category": "ايس كريم",
   "description": ""
  },
  {
@@ -12617,7 +12610,7 @@
   "id": "P1803",
   "name": "بطاطس رفيعه",
   "price": 80,
-  "category": "الفحم",
+  "category": "مجمدات",
   "description": ""
  },
  {

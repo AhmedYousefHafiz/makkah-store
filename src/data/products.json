@@ -3,7 +3,7 @@
   "id": "P001",
   "name": "براميلي مزبده ",
   "price": 180,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -360,7 +360,7 @@
   "id": "P052",
   "name": "نستو بالهنا 8 قطع",
   "price": 17,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -962,7 +962,7 @@
   "id": "P138",
   "name": "بيض بلدي بالواحده",
   "price": 6.5,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -976,7 +976,7 @@
   "id": "P140",
   "name": "جبنه رومي وسط",
   "price": 280,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -1102,7 +1102,7 @@
   "id": "P158",
   "name": "كيري لبن طبيعى ",
   "price": 200,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -9320,7 +9320,7 @@
   "id": "P1332",
   "name": "جبنة رودس1/2كجم قشطة",
   "price": 48,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -9712,7 +9712,7 @@
   "id": "P1388",
   "name": "افانتي جبن فيتا يوناني لبن طبيعى ",
   "price": 125,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -10146,7 +10146,7 @@
   "id": "P1450",
   "name": "رودس جبنه فلمنك  نص",
   "price": 50,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -12197,7 +12197,7 @@
   "id": "P1743",
   "name": "افانتي فيتا تترا باك 500",
   "price": 98,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -12421,14 +12421,14 @@
   "id": "P1775",
   "name": "افانتي جبن شيدر احمر",
   "price": 72,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
   "id": "P1776",
   "name": "افانتي جبن فيتا بالفلفل",
   "price": 130,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -12470,7 +12470,7 @@
   "id": "P1782",
   "name": "افانتي فيتا تتراباك 250",
   "price": 52,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {
@@ -13044,7 +13044,7 @@
   "id": "P1864",
   "name": "علبه قشطه لامدي",
   "price": 20,
-  "category": "الجبن",
+  "category": "جبن",
   "description": ""
  },
  {

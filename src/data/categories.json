@@ -1,6 +1,6 @@
 [
   {
-    "name": "الجبن",
+    "name": "جبن",
     "image": "categories/C-001.jpeg"
   },
   {
@@ -118,10 +118,6 @@
   {
     "name": "الحلويات",
     "image": "categories/C-032.jpeg"
-  },
-  {
-    "name": "جبن",
-    "image": "categories/C-033.jpeg"
   },
   {
     "name": "الدقيق",

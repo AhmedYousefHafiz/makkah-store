@@ -367,7 +367,7 @@
   "id": "P053",
   "name": "ملح التقوى كيس",
   "price": 2,
-  "category": "خلطات و توابل",
+  "category": "خل وملح",
   "description": ""
  },
  {
@@ -514,14 +514,14 @@
   "id": "P074",
   "name": "خل فرحه",
   "price": 15,
-  "category": "سمن و زيوت",
+  "category": "خل وملح",
   "description": ""
  },
  {
   "id": "P075",
   "name": "خل تفاح ",
   "price": 56,
-  "category": "سمن و زيوت",
+  "category":"خل وملح",
   "description": ""
  },
  {
@@ -1053,7 +1053,7 @@
   "id": "P151",
   "name": "كوكس ملح هيمالايا الصخرى",
   "price": 35,
-  "category": "خلطات و توابل",
+  "category": "خل وملح",
   "description": ""
  },
  {
@@ -1130,7 +1130,7 @@
   "id": "P162",
   "name": "مخلل بوليف",
   "price": 50,
-  "category": "زبادي والبان",
+  "category": "خل وملح",
   "description": ""
  },
  {

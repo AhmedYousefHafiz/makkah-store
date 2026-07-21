@@ -11,12 +11,12 @@
     "name": "مياه معدنيه",
     "image": "categories/C-003.jpeg"
   },
-    {
+  {
     "name": "سكر",
     "image": "categories/C-004.jpeg"
   },
   {
-    "name": "كيك وحلويات",
+    "name": "بسكوت وكيك وحلويات",
     "image": "categories/C-005.jpeg"
   },
   {
@@ -52,10 +52,6 @@
     "image": "categories/C-013.jpeg"
   },
   {
-    "name": "البسكوت",
-    "image": "categories/C-014.jpeg"
-  },
-  {
     "name": "ارز و مكرونة",
     "image": "categories/C-015.jpeg"
   },
@@ -63,7 +59,7 @@
     "name": "خلطات و توابل",
     "image": "categories/C-016.jpeg"
   },
-   {
+  {
     "name": "خل وملح",
     "image": "categories/C-017.jpeg"
   },
@@ -120,10 +116,6 @@
     "image": "categories/C-034.jpeg"
   },
   {
-    "name": "بسكوتات",
-    "image": "categories/C-035.jpeg"
-  },
-  {
     "name": "المكرونه",
     "image": "categories/C-036.jpeg"
   },
@@ -139,7 +131,6 @@
     "name": "بقوليات",
     "image": "categories/C-041.jpeg"
   },
-
   {
     "name": "معلبات",
     "image": "categories/C-043.jpeg"
@@ -152,9 +143,8 @@
     "name": "مقرمشات",
     "image": "categories/C-045.jpeg"
   },
-    {
+  {
     "name": "متنوع",
     "image": "categories/C-047.jpeg"
   }
-
 ]

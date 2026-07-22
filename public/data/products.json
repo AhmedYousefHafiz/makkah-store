@@ -13,7 +13,7 @@
     "price": 30,
     "category": "سكر",
     "description": "",
-    "available": true
+    "available": false
   },
   {
     "id": "P003",
@@ -21,7 +21,7 @@
     "price": 28,
     "category": "سكر",
     "description": "",
-    "available": true
+    "available": false
   },
   {
     "id": "P004",

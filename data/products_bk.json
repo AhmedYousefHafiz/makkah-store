@@ -1,0 +1,115 @@
+[
+  {
+    "id": "p-001",
+    "name": "iPhone",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVQ88UMJu2jlWT4WZLkkW2TfSMiCYBl517FtYGx2ORA&s=10",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "./images/sugar.jpeg",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+    {
+    "id": "p-001",
+    "name": "iPhone 16",
+    "price": 1200,
+    "oldPrice": 1400,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Latest iPhone model with high performance.",
+    "isFeatured": true
+  },
+  {
+    "id": "p-002",
+    "name": "Samsung Galaxy S25",
+    "price": 1100,
+    "oldPrice": 1250,
+    "category": "Mobiles",
+    "image": "📱",
+    "description": "Premium Android phone with excellent display.",
+    "isFeatured": true
+  },
+  {
+    "id": "p-003",
+    "name": "MacBook Pro",
+    "price": 2500,
+    "oldPrice": 2800,
+    "category": "Laptops",
+    "image": "💻",
+    "description": "Powerful laptop for professional users.",
+    "isFeatured": true
+  },
+  {
+    "id": "p-004",
+    "name": "Lenovo ThinkPad",
+    "price": 1500,
+    "category": "Laptops",
+    "image": "💻",
+    "description": "Reliable business laptop for daily work."
+  },
+  {
+    "id": "p-005",
+    "name": "Wireless Headphones",
+    "price": 180,
+    "oldPrice": 240,
+    "category": "Accessories",
+    "image": "🎧",
+    "description": "Comfortable headphones with noise isolation."
+  },
+  {
+    "id": "p-006",
+    "name": "Smart Watch",
+    "price": 300,
+    "oldPrice": 350,
+    "category": "Accessories",
+    "image": "⌚",
+    "description": "Track activity, calls, and notifications."
+  },
+  {
+    "id": "p-007",
+    "name": "Home Router",
+    "price": 90,
+    "category": "Internet Devices",
+    "image": "📶",
+    "description": "Fast Wi-Fi router for home connection."
+  },
+  {
+    "id": "p-008",
+    "name": "4G MiFi",
+    "price": 65,
+    "oldPrice": 80,
+    "category": "Internet Devices",
+    "image": "📡",
+    "description": "Portable internet device for travel."
+  }
+]

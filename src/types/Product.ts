@@ -7,4 +7,5 @@ export interface Product {
   image?: string;
   description: string;
   isFeatured?: boolean;
+  available?: boolean;
 }

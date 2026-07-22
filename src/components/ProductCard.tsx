@@ -8,6 +8,7 @@ function ProductCard({ product }: ProductCardProps) {
   const discount = product.oldPrice
     ? Math.round(((product.oldPrice - product.price) / product.oldPrice) * 100)
     : 0;
+  const isAvailable = product.available !== false;
 
   return (
     <article className="product-card">
@@ -30,6 +31,10 @@ function ProductCard({ product }: ProductCardProps) {
           <span className="current-price">{product.price} ج.م</span>
           {product.oldPrice && <span className="old-price">{product.oldPrice} ج.م</span>}
         </div>
+
+        <span className={`availability-badge ${isAvailable ? 'available' : 'unavailable'}`}>
+          {isAvailable ? 'متوفر' : 'غير متوفر'}
+        </span>
 
         {discount > 0 && <span className="discount-badge">-{discount}%</span>}
       </div>

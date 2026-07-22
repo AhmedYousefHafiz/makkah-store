@@ -327,6 +327,25 @@ h1 {
   text-decoration: line-through;
 }
 
+.availability-badge {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.availability-badge.available {
+  color: #047857;
+  background: #dcfce7;
+}
+
+.availability-badge.unavailable {
+  color: #b91c1c;
+  background: #fee2e2;
+}
+
 .discount-badge {
   position: absolute;
   top: 8px;

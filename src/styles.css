@@ -327,9 +327,14 @@ h1 {
   text-decoration: line-through;
 }
 
+.availability-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
 .availability-badge {
   display: inline-block;
-  margin-top: 10px;
   padding: 4px 8px;
   border-radius: 999px;
   font-size: 0.72rem;

@@ -32,9 +32,11 @@ function ProductCard({ product }: ProductCardProps) {
           {product.oldPrice && <span className="old-price">{product.oldPrice} ج.م</span>}
         </div>
 
-        <span className={`availability-badge ${isAvailable ? 'available' : 'unavailable'}`}>
-          {isAvailable ? 'متوفر' : 'غير متوفر'}
-        </span>
+        <div className="availability-wrapper">
+          <span className={`availability-badge ${isAvailable ? 'available' : 'unavailable'}`}>
+            {isAvailable ? 'متوفر' : 'غير متوفر'}
+          </span>
+        </div>
 
         {discount > 0 && <span className="discount-badge">-{discount}%</span>}
       </div>

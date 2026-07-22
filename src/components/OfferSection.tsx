@@ -6,7 +6,7 @@ function OfferSection() {
 
   useEffect(() => {
     const loadOffers = async () => {
-      const response = await fetch('/data/offers.json');
+      const response = await fetch('https://ahmedyousefhafiz.github.io/makkah-store/data/offers.json');
       const data = (await response.json()) as Offer[];
       setOffers(data);
     };

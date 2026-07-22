@@ -15,8 +15,8 @@ function Home() {
   useEffect(() => {
     const loadData = async () => {
       const [productsResponse, categoriesResponse] = await Promise.all([
-        fetch('/data/products.json'),
-        fetch('/data/categories.json')
+        fetch('https://ahmedyousefhafiz.github.io/makkah-store/data/products.json'),
+        fetch('https://ahmedyousefhafiz.github.io/makkah-store/data/categories.json')
       ]);
 
       const loadedProducts = (await productsResponse.json()) as Product[];

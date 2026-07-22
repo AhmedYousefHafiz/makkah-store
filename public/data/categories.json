@@ -1,0 +1,150 @@
+[
+  {
+    "name": "جبن",
+    "image": "categories/C-001.jpeg"
+  },
+  {
+    "name": "مشروبات غازية",
+    "image": "categories/C-002.jpeg"
+  },
+  {
+    "name": "مياه معدنيه",
+    "image": "categories/C-003.jpeg"
+  },
+  {
+    "name": "سكر",
+    "image": "categories/C-004.jpeg"
+  },
+  {
+    "name": "بسكوت وكيك وحلويات",
+    "image": "categories/C-005.jpeg"
+  },
+  {
+    "name": "الزيوت",
+    "image": "categories/C-006.jpeg"
+  },
+  {
+    "name": "صوصات",
+    "image": "categories/C-007.jpeg"
+  },
+  {
+    "name": "شيكولاته",
+    "image": "categories/C-008.jpeg"
+  },
+  {
+    "name": "زبادي والبان",
+    "image": "categories/C-009.jpeg"
+  },
+  {
+    "name": "شاى",
+    "image": "categories/C-010.jpeg"
+  },
+  {
+    "name": "بن ونسكافيه",
+    "image": "categories/C-011.jpeg"
+  },
+  {
+    "name": "مشروبات ساخنة",
+    "image": "categories/C-012.jpeg"
+  },
+  {
+    "name": "عصائر",
+    "image": "categories/C-013.jpeg"
+  },
+  {
+    "name": "ارز و مكرونة",
+    "image": "categories/C-015.jpeg"
+  },
+  {
+    "name": "خلطات و توابل",
+    "image": "categories/C-016.jpeg"
+  },
+  {
+    "name": "خل وملح",
+    "image": "categories/C-017.jpeg"
+  },
+  {
+    "name": "منظفات",
+    "image": "categories/C-018.jpeg"
+  },
+  {
+    "name": "مربي",
+    "image": "categories/C-020.jpeg"
+  },
+  {
+    "name": "شيبسي",
+    "image": "categories/C-021.jpeg"
+  },
+  {
+    "name": "سمن و زيوت",
+    "image": "categories/C-022.jpeg"
+  },
+  {
+    "name": "مكرونه سريعة التحضير",
+    "image": "categories/C-023.jpeg"
+  },
+  {
+    "name": "باتية و مخبوزات",
+    "image": "categories/C-024.jpeg"
+  },
+  {
+    "name": "مستلزمات الحلويات",
+    "image": "categories/C-025.jpeg"
+  },
+  {
+    "name": "حلاوة طحينية",
+    "image": "categories/C-026.jpeg"
+  },
+  {
+    "name": "مشروبات طاقة",
+    "image": "categories/C-027.jpeg"
+  },
+  {
+    "name": "ايس كريم",
+    "image": "categories/C-028.jpeg"
+  },
+  {
+    "name": "تمور",
+    "image": "categories/C-029.jpeg"
+  },
+  {
+    "name": "مجمدات",
+    "image": "categories/C-031.jpeg"
+  },
+  {
+    "name": "الدقيق",
+    "image": "categories/C-034.jpeg"
+  },
+  {
+    "name": "المكرونه",
+    "image": "categories/C-036.jpeg"
+  },
+  {
+    "name": "عسل",
+    "image": "categories/C-039.jpeg"
+  },
+  {
+    "name": "تونه",
+    "image": "categories/C-040.jpeg"
+  },
+  {
+    "name": "بقوليات",
+    "image": "categories/C-041.jpeg"
+  },
+  {
+    "name": "معلبات",
+    "image": "categories/C-043.jpeg"
+  },
+  {
+    "name": "عناية شخصية",
+    "image": "categories/C-044.jpeg"
+  },
+  {
+    "name": "مقرمشات",
+    "image": "categories/C-045.jpeg"
+  },
+  {
+    "name": "متنوع",
+    "image": "categories/C-047.jpeg"
+  }
+]

@@ -1,9 +1,18 @@
-import offersData from '../data/offers.json';
+import { useEffect, useState } from 'react';
 import { Offer } from '../types/Offer';
 
-const offers: Offer[] = offersData;
-
 function OfferSection() {
+  const [offers, setOffers] = useState<Offer[]>([]);
+
+  useEffect(() => {
+    const loadOffers = async () => {
+      const response = await fetch('/data/offers.json');
+      const data = (await response.json()) as Offer[];
+      setOffers(data);
+    };
+
+    void loadOffers();
+  }, []);
   return (
     <section className="section-block">
       <div className="section-title-row">

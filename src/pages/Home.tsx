@@ -1,20 +1,33 @@
-import { useMemo, useState } from 'react';
-import productsData from '../data/products.json';
-import categoriesData from '../data/categories.json';
+import { useEffect, useMemo, useState } from 'react';
 import { Product } from '../types/Product';
 import { groupProductsByCategory } from '../utils/groupProducts';
 import Header from '../components/Header';
 import OfferSection from '../components/OfferSection';
-import CategorySection from '../components/CategorySection';
 import ProductCard from '../components/ProductCard';
-import BottomNavigation from '../components/BottomNavigation';
 
-const products: Product[] = productsData as Product[];
-const categories = categoriesData as { name: string; image: string }[];
 
 function Home() {
   const [searchText, setSearchText] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [products, setProducts] = useState<Product[]>([]);
+  const [categories, setCategories] = useState<{ name: string; image: string }[]>([]);
+
+  useEffect(() => {
+    const loadData = async () => {
+      const [productsResponse, categoriesResponse] = await Promise.all([
+        fetch('/data/products.json'),
+        fetch('/data/categories.json')
+      ]);
+
+      const loadedProducts = (await productsResponse.json()) as Product[];
+      const loadedCategories = (await categoriesResponse.json()) as { name: string; image: string }[];
+
+      setProducts(loadedProducts);
+      setCategories(loadedCategories);
+    };
+
+    void loadData();
+  }, []);
 
   const filteredProducts = useMemo(() => {
     const normalizedSearch = searchText.trim().toLowerCase();
@@ -30,7 +43,7 @@ function Home() {
         product.description.toLowerCase().includes(normalizedSearch)
       );
     });
-  }, [searchText]);
+  }, [products, searchText]);
 
   const productGroups = useMemo(
     () => groupProductsByCategory(filteredProducts),
@@ -43,7 +56,7 @@ function Home() {
       image: category.image,
       products: filteredProducts.filter((product) => product.category === category.name)
     })),
-    [filteredProducts]
+    [categories, filteredProducts]
   );
 
   const selectedGroup = productGroupsFromCategories.find(
